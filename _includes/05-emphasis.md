@@ -1,4 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills.
 *This text will be italic*
 _This will also be italic_
 
@@ -6,3 +5,9 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
+*Refrences are written in italic format*
+_italic formats_
+
+**To highlight something bold letters are used**
+__Bold letters looks great__
